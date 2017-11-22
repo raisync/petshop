@@ -1,0 +1,109 @@
+.custom_meta_options_group h2{
+    margin-bottom: 30px!important;
+}
+#pf_options_sortable tr {
+    padding: 20px 30px;
+    margin:0px!important;
+    border-bottom: 1px solid rgba(204,204,204,.3);
+    overflow: hidden;
+    cursor: move;
+}
+.fields_add_options{
+    background:#f9f9f9;
+    padding: 20px 30px;
+    margin-bottom: 30px!important;
+    overflow: hidden;
+}
+.input_field_select_options{
+    display: none;
+}
+.options_fields_group label{
+    display: block;
+}
+.add_options_fields .table tbody tr:first-child{
+    display: none;
+}
+table{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    text-align: left;
+}
+table td{
+    vertical-align: top;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 20px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #fff;
+}
+.add_options_fields .table thead tr{
+    background: #888888;
+    color: #fff;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+}
+.options_fields_group span{
+    width: 100%;
+    display: block;
+}
+.fields_options_delete a{
+    background: #d9534f;
+    padding: 4px 15px;
+    margin-top: 0;
+    display: table;
+    border-radius: 3px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+.fields_options_delete a:hover{
+    opacity: 0.9;
+}
+.select_field_select_options, .input-type-select-date-format{
+    display: none;
+    width: 100%;
+    margin-top: 10px;
+}
+.select_field_select_options.show_options_data, .input-type-select-date-format.show_options_data{
+    display: block;
+}
+.pf_add_options_button{
+    width: 97%;
+    display: block;
+}
+a#create_option {
+    display: inline-block;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 20px;
+    line-height: 0;
+}
+.pf_add_options_button p.submit{
+    float: right;
+    margin: 0;
+    display: block;
+    }
+.pf_add_options_button p.submit .button-primary{
+    padding: 20px;
+    line-height: 0;
+    font-size: 14px;
+}
+#pf_options_sortable tr:nth-child(even){
+    background:#f9f9f9;
+}
+#pf_options_sortable tr:nth-child(odd){
+    background:#EFEFEF;
+}

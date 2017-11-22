@@ -1,0 +1,33 @@
+version 1.0.3
+====================
+-- Kaya slider post thumbnail issue fixed.
+
+version 1.0.2
+====================
+-- Blog Masonry Pagination issue fixed.
+-- Client Slider 6 Column alignment issue fixed.
+-- Custom Title Position right alignment issue fixed.
+-- Shop Products List Title Hover Color issue fixed.
+-- Shop Products Slider Title Hover Color issue fixed.
+-- Team Slider Navigation Alignment issue fixed.
+-- Social Media Icons - Icon link color and hover color issue fixed.
+-- Image Box Alignment issue fixed.
+-- Shop Product hover border issue fixed.
+-- Product Hover padding issue fixed.
+-- Product list alignment issue fixed.
+
+version 1.0.1
+====================
+-- Tab widget  Hover Border issue fixed.
+-- Tabs widget  Padding bottom issue fixed.
+-- Tabs widget  margin bottom issue fixed.
+-- Client slider widget padding issue fixed.
+-- Testimonial slider widget columns issue fixed in mobile view.
+--  Image box widget issue fixed.
+--  Client slider widget images bottom spacing issue fixed.
+--  Banner widget image issue fixed in ipad view.
+--  Added Social Media icons widget.
+
+version 1.0
+====================
+-- Initial Release

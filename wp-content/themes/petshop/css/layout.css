@@ -1,0 +1,183 @@
+.container{
+	margin:0px  auto;
+	padding:0px 30px;
+	position:relative;
+	display:block;
+	width: 1200px;
+}
+.container:after, #mid_container:after {
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+}
+#mid_container {
+	padding:70px 30px;
+}
+#fluid_layout{
+    margin: 0 auto;
+    width:100%;
+	display:block;
+	overflow:hidden;
+	position:relative;
+	clear:both;
+}
+.mid_container_wrapper{
+	min-height: 500px;
+}
+.mid_container_wrapper_section{	
+	clear:both;
+	position: relative;
+	margin: 0px auto;
+	overflow: hidden;
+}
+#video_wrapper{
+	 height: 100%;
+    min-height: 100%;
+}
+#box_layout #mid_container_wrapper{
+	  overflow: hidden;
+}
+.title_seperator{
+  background-color: #b9b9b9;
+  bottom: 0;
+  display: block;
+  height: 1px;
+  position: absolute;
+  width: 150px;
+}
+.title_seperator::after{
+  content: "";
+  position: absolute;
+  left: 100%;
+  height: 8px;
+  width: 8px;
+  -webkit-transform:  rotate(-45deg);
+  -moz-transform:  rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  -ms-transform:  rotate(-45deg);
+  transform: rotate(-45deg);
+  bottom: -4px;
+  margin-top: 0;
+   display: block;
+}
+/* Columns shortcode
+----------------------------------------------------------------------------------------------------*/
+.fullwidth{
+	width:100%;
+	float:left;
+}
+
+.one_half{
+	width:48.10%;
+	float:left;
+	margin-right:3.80%;
+}
+.one_half_last{
+	width:48.10%;
+	float:right;
+}
+.one_third{
+	width:30.70%;
+	float:left;
+	margin-right:3.80%;
+
+}
+.one_third_last{
+	width:30.70%;
+	float:right;
+}
+.one_third_last:after{
+clear:both;
+}
+.two_third{
+	width:65.40%;
+	float:left;
+	margin-right:3.80%;
+}
+.two_third_last{
+	width:65.20%;
+	float:right;
+	display: table-cell;
+}
+.one_fourth{
+	width:22.15%;
+	float:left;
+	margin-right:3.80%;
+
+}
+.one_fourth_last{
+	width:22.15%;
+	float:right;
+
+}
+.two_fourth{
+	width:48.10%;
+	float:left;
+	margin-right:3.80%;
+}
+.three_fourth{
+	width:74.05%;
+	float:left;
+	margin-right:3.80%;
+}
+.three_fourth_last{
+	width:74.05%;
+	float:right;
+}
+.one_fifth{
+	width:16.96%;
+	float:left;
+	margin-right:3.80%;
+}
+.one_fifth_last{
+	width:16.96%;
+	float:right;
+}
+.two_fifth{
+	width:33.92%;
+	float:left;
+	margin-right:3.80%;
+}
+.three_fifth{
+	width:58.48%;
+	float:left;
+	margin-right:3.80%;
+}
+.four_fifth{
+	width:79.240%;
+	float:left;
+	margin-right:3.80%;
+}
+.four_fifth_last{
+	width:79.240%;
+	float:right;
+}
+* html .clearfix {
+
+} /* IE6 */
+
+*:first-child+html .clearfix {
+
+} /* IE7 */
+
+/* clearfix */
+.clear{
+	clear:both;
+	display:block;
+	height:0px;
+	width:100%;
+	visibility:hidden;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.last{
+	margin-right:0px !important;
+	float:right !important;
+}

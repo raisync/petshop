@@ -1,0 +1,131 @@
+version 1.1.3
+====================
+-- Updated one click demo content
+
+version 1.1.2
+====================
+-- Calculate shipping alignment issue fixed.
+
+version 1.1.1
+====================
+-- Woocommerce functions depricated issue fixed.
+-- Add cart button color issue fixed.
+
+version 1.1.0
+====================
+-- Variable product cart button issue fixed.
+-- Product thumbnails lightbox issue fixed.
+
+version 1.0.9
+====================
+-- Updated Woocommerce files.
+
+version 1.0.8
+====================
+-- Child menu width issue fixed.
+
+version 1.0.7
+====================
+-- Woocommerce products issue fixed.
+
+version 1.0.6
+====================
+-- Woocommerce columns issue fixed.
+
+version 1.0.5
+====================
+-- Child menu overlap issue fixed.
+
+version 1.0.4
+====================
+-- Sidebar Border issue fixed.
+-- Sidebar list border bottom issue fixed.
+-- Sidebar Product alignment issue fixed.
+-- Menu issue in safari browser fixed.
+-- Footer icon issue in safari browser fixed.
+-- Page Sidebar List Border Bottom Color issue fixed.
+-- Blog Quote Font Weight issue fixed.
+-- Shop Single page social icons Link color and border color issue fixed.
+-- Overlay font size issue fixed in mobile view.
+-- Product list alignment issue fixed in mobile view.
+-- Testimonial issue fixed in mobile view.
+-- Tab Alignmet issue fixed in mobile view.
+-- Header Slider Description font size issue fixed in mobile view.
+-- Icon Box Left and Right Alignment issue fixed in mobile view.
+-- Shop Detail Page Alignmnet issue fixed in mobile view.
+-- Sub Header Padding issue fixed in mobile view.
+-- Image Overlay Text Image Alignment issue fixed in ipad view.
+-- Product Image alignment issue fixed in ipad view.
+-- Shop Product list issue fixed in ipad view.
+-- Bottom scroll bar for body issue fixed in ioad view.
+
+version 1.0.3
+====================
+-- woocommerce update cart button issue fixed.
+
+version 1.0.2
+====================
+-- Added RTL css file.
+-- wooCommerce files upated.
+version 1.0.1
+====================
+-- Product item rating Padding issue fixed.
+-- Shop and blog Navigation bg color issue fixed.
+-- Container padding top & bottom issue fixed.
+-- Blog inner page comments view padding issue fixed.
+-- Sub Menu left padding  issue fixed.
+--  Added an option to product detail page right side social icons hover color.
+-- Shop single page nav buttons issue fixed.
+-- Sidebar list border issue fixed.
+-- Blog post padding issue fixed.
+-- Sidebar title right & left padding issue fixed.
+-- Blog single page previous & next button hover color issue fixed.
+--  Added Upload social icon option in top header from Theme Customize.
+-- Sticky menu issue fixed.
+-- Container right side padding issue fixed in mobile view.
+-- Bottom Scrolling Issue fixed in mobile view.
+-- Slider text issue fixed.
+-- Search box bottom spacing issue fixed.
+-- Shop page sorting alignment issue fixed in mobile view.
+-- Blog Page description padding issue fixed.
+-- Blog page posts padding issue fixed.
+-- Blog Page pagination margin issue fixed.
+-- Shop single page product thumbnail autoplay issue fixed,
+-- Shop single page product thumbnail slider, margin bottom issue fixed.
+-- Shop cart page mobile issues fixed.
+-- Blog single page next and previous button alignment issue fixed.
+-- Top Header  social icons  alignment issue fixed in mobile and ipad view.
+-- Menu issue fixed in mobile and ipad view.
+-- Bottom scrolling issue fixed in ipad view.
+-- Shop single page image and text padding issue fixed.
+-- Cart page alignment issue fixed in ipad view.
+-- Products category columns issue fixed in ipad view.
+-- Products alignment issue fixed in ipad view.
+-- Free shipping and secure checkout padding issues fixed.
+-- Shop single page button alignment  issue fixed.
+-- Shop single page pagination margin bottom issue fixed.
+-- Text Logo Tag Line alignment issue fixed.
+-- Disable My Account login option issue fixed.
+--  Menu color settings issue fixed.
+-- Menu links Hover bg color issue fixed.
+-- Menu bottom spacing issue fixed.
+-- Search box bottom spacing issue fixed.
+-- Page Title bar , title position right and cener alignment issue fixed.
+-- Added Breadcrumb Link Color and hover color options for page title bar settings from Theme    Customize.
+-- Added Tag clouds background color option from Theme Customize.
+-- Added Tag clouds hover bg color option  from Theme Customize.
+-- Added Tag clouds hover text color option  from Theme Customize.
+-- Blog Single Comment Form, submit button border issue fixed.
+-- Most Footer Bottom issue fixed.
+-- Most Footer Bottom links color issue fixed.
+-- Most Footer Bottom links hover color issue fixed.
+-- Body font size issue fixed.
+-- Product Categories Page Sidebar issue fixed.
+-- Product categories left sdebar issue fixed.
+-- Shop Single page left sidebar issue fixed.
+
+version 1.0
+====================
+-- Initial Release
+
+	

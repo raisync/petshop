@@ -1,0 +1,2856 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: julia\n"
+"POT-Creation-Date: 2016-03-14 16:51+0530\n"
+"PO-Revision-Date: 2016-03-14 16:52+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/admin/importer/kaya-importer.php:22
+msgid "Choose Your"
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:22
+msgid "Demo Content "
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:22
+msgid "Watch This Video"
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:23
+msgid "Note"
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:23
+msgid ""
+"Before importing demo content make sure that you have installed and "
+"activated  Julia theme required plugins"
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:34
+msgid "Import Demo Content"
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:195
+#: ../inc/admin/pf_custom_meta_options.php:238
+msgid "All options are restored successfully"
+msgstr ""
+
+#: ../inc/admin/importer/kaya-importer.php:197
+#: ../inc/admin/importer/kaya-importer.php:201
+msgid "Error occured while loading / File not found"
+msgstr ""
+
+#: ../inc/admin/importer/parsers.php:42 ../inc/admin/importer/parsers.php:75
+#: ../inc/admin/importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/admin/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/admin/importer/parsers.php:87 ../inc/admin/importer/parsers.php:92
+#: ../inc/admin/importer/parsers.php:284 ../inc/admin/importer/parsers.php:473
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:134
+#: ../inc/admin/importer/wordpress-importer.php:143
+#: ../inc/admin/importer/wordpress-importer.php:194
+#: ../inc/admin/importer/wordpress-importer.php:198
+#: ../inc/admin/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:511
+#: ../inc/admin/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:924
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:937
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:942
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:948
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:1047
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:1054
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:1069
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:1070
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/admin/importer/wordpress-importer.php:1144
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: ../inc/admin/kaya_admin.php:31
+msgid ""
+"<strong>Notice: </strong> &nbsp; Your Portfolio Profile Will be activate "
+"with in 24 hours!"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:47
+#: ../inc/widgets/user_register_login.php:177
+msgid "First Name"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:51
+#: ../inc/admin/kaya_admin_settings.php:177
+#: ../inc/admin/kaya_admin_settings.php:189
+#: ../inc/admin/kaya_admin_settings.php:209
+#: ../inc/admin/kaya_admin_settings.php:232
+#: ../inc/widgets/user_register_login.php:180
+msgid "Phone Number"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:61
+msgid "<strong>ERROR</strong>: You must include a first name."
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:64
+msgid "<strong>ERROR</strong>: You must include your Phone number."
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:178
+#: ../inc/admin/kaya_admin_settings.php:190
+#: ../inc/admin/kaya_admin_settings.php:210
+#: ../inc/admin/kaya_admin_settings.php:233
+msgid "Facebook Username"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:179
+#: ../inc/admin/kaya_admin_settings.php:191
+#: ../inc/admin/kaya_admin_settings.php:211
+#: ../inc/admin/kaya_admin_settings.php:234
+msgid "Twitter Username"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:180
+#: ../inc/admin/kaya_admin_settings.php:192
+#: ../inc/admin/kaya_admin_settings.php:212
+#: ../inc/admin/kaya_admin_settings.php:235
+msgid "Google+ ID"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:181
+#: ../inc/admin/kaya_admin_settings.php:193
+#: ../inc/admin/kaya_admin_settings.php:213
+#: ../inc/admin/kaya_admin_settings.php:236
+msgid "Linked In ID"
+msgstr ""
+
+#: ../inc/admin/kaya_admin_settings.php:182
+#: ../inc/admin/kaya_admin_settings.php:194
+#: ../inc/admin/kaya_admin_settings.php:214
+#: ../inc/admin/kaya_admin_settings.php:237
+msgid "Pinterest Username"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/common.php:48
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/common.php:49
+msgid "Extensions"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/field.php:250
+msgid "+ Add more"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/autocomplete.php:18
+#: ../inc/admin/meta-box/inc/fields/autocomplete.php:83
+#: ../inc/admin/meta-box/inc/fields/autocomplete.php:100
+msgid "Delete"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/checkbox.php:95
+msgid "Yes"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/checkbox.php:95
+msgid "No"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/file-input.php:40
+#: ../inc/admin/meta-box/inc/fields/select.php:211
+#: ../inc/admin/meta-box/inc/fields/select1.php:208
+#: ../inc/admin/pf_custom_meta_options.php:96
+#: ../inc/admin/pf_custom_meta_options.php:145
+msgid "Select"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/map.php:51
+msgid "Find Address"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/oembed.php:62
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/oembed.php:84
+msgid "Preview"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/post.php:67
+msgid "Select a post"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/post.php:71
+#: ../inc/admin/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/select.php:211
+#: ../inc/admin/meta-box/inc/fields/select1.php:208
+#: ../inc/widgets/portfolio.php:103
+msgid "All"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/select.php:211
+#: ../inc/admin/meta-box/inc/fields/select1.php:208
+#: ../inc/admin/meta-boxes.php:95 ../inc/meta-boxes.php:150
+msgid "None"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/select1.php:111
+msgid "Choose Option"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: ../inc/admin/meta-box/inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:45 ../inc/meta-boxes.php:43
+msgid "Page Title Options"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:52 ../inc/meta-boxes.php:50
+msgid "Disable Page Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:59 ../inc/meta-boxes.php:57
+msgid "Page Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:63 ../inc/meta-boxes.php:61
+msgid "Default Page Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:64 ../inc/admin/meta-boxes.php:72
+#: ../inc/meta-boxes.php:62 ../inc/meta-boxes.php:70
+msgid "Custom Page Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:84 ../inc/meta-boxes.php:139
+msgid "Page Background Options"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:91 ../inc/meta-boxes.php:146
+msgid "Choose Subheader Style"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:96 ../inc/meta-boxes.php:151
+msgid "Header Slider"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:97 ../inc/meta-boxes.php:152
+msgid "Video Background"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:106 ../inc/meta-boxes.php:161
+msgid "Select Slider Type"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:111 ../inc/meta-boxes.php:166
+msgid "Kaya Post Slider"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:112 ../inc/meta-boxes.php:167
+msgid "Slider Plugin Shortcode"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:120 ../inc/meta-boxes.php:175
+msgid "Select Kaya Post Slider Category"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:130 ../inc/meta-boxes.php:185
+#: ../inc/widgets/product_slider.php:250 ../inc/widgets/team.php:182
+msgid "Auto Play"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:143 ../inc/meta-boxes.php:198
+msgid "Slide Animation Type"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:148 ../inc/meta-boxes.php:203
+msgid "Fade"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:149 ../inc/meta-boxes.php:204
+msgid "Slide Top"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:150 ../inc/meta-boxes.php:205
+msgid "Slide Right"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:151 ../inc/meta-boxes.php:206
+msgid "Slide Bottom"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:152 ../inc/meta-boxes.php:207
+msgid "Slide Left"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:153 ../inc/meta-boxes.php:208
+msgid "Carousel Right"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:154 ../inc/meta-boxes.php:209
+msgid "Carousel Left"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:161
+msgid "Slide Interval"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:167
+msgid "Length between transitions Ex:3000"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:170 ../inc/meta-boxes.php:216
+msgid "Slider Images Order by"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:176 ../inc/meta-boxes.php:222
+msgid "ID"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:177 ../inc/meta-boxes.php:223
+msgid "Menu Order"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:178 ../inc/meta-boxes.php:224
+#: ../inc/widgets/custom_title.php:104 ../inc/widgets/iconbox.php:293
+#: ../inc/widgets/image_boxes.php:169 ../inc/widgets/services.php:167
+msgid "Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:182 ../inc/meta-boxes.php:228
+msgid "Slide Images Order"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:188 ../inc/meta-boxes.php:234
+msgid "Descending Order"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:189 ../inc/meta-boxes.php:235
+msgid "Ascending Order"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:193 ../inc/meta-boxes.php:239
+msgid "Slider Nav Buttons Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:201 ../inc/meta-boxes.php:247
+msgid "Slider Nav Buttons Active Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:209
+msgid "Disable Slider Pattern"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:217 ../inc/meta-boxes.php:256
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:225 ../inc/meta-boxes.php:264
+msgid "Video Background ID"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:229 ../inc/meta-boxes.php:268
+msgid "Ex: "
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:232 ../inc/meta-boxes.php:271
+msgid "Video WEBM URL"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:239 ../inc/meta-boxes.php:278
+msgid "Video MP4 URL"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:246 ../inc/meta-boxes.php:285
+msgid "Video OGG URL"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:253 ../inc/meta-boxes.php:292
+msgid "Video Background Opacity"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:265 ../inc/meta-boxes.php:304
+msgid "Video Background Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:279
+msgid "Tab1"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:284
+msgid "Tab1 Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:288 ../inc/meta-boxes.php:327
+msgid "PORTFOLIO"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:291 ../inc/meta-boxes.php:330
+msgid "Upload Images"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:298 ../inc/admin/meta-boxes.php:351
+#: ../inc/admin/meta-boxes.php:413 ../inc/admin/meta-boxes.php:475
+#: ../inc/admin/meta-boxes.php:537 ../inc/meta-boxes.php:337
+msgid "Enable Gallery"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:304 ../inc/admin/meta-boxes.php:357
+#: ../inc/admin/meta-boxes.php:419 ../inc/admin/meta-boxes.php:481
+#: ../inc/admin/meta-boxes.php:543 ../inc/admin/meta-boxes.php:599
+#: ../inc/meta-boxes.php:343 ../inc/meta-boxes.php:389
+#: ../inc/widgets/portfolio.php:371 ../inc/widgets/team.php:173
+msgid "Select Columns"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:308 ../inc/admin/meta-boxes.php:361
+#: ../inc/admin/meta-boxes.php:423 ../inc/admin/meta-boxes.php:485
+#: ../inc/admin/meta-boxes.php:547 ../inc/admin/meta-boxes.php:603
+#: ../inc/meta-boxes.php:347 ../inc/meta-boxes.php:393
+msgid "5Column"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:309 ../inc/admin/meta-boxes.php:362
+#: ../inc/admin/meta-boxes.php:424 ../inc/admin/meta-boxes.php:486
+#: ../inc/admin/meta-boxes.php:548 ../inc/admin/meta-boxes.php:604
+#: ../inc/meta-boxes.php:348 ../inc/meta-boxes.php:394
+msgid "4Column"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:310 ../inc/admin/meta-boxes.php:363
+#: ../inc/admin/meta-boxes.php:425 ../inc/admin/meta-boxes.php:487
+#: ../inc/admin/meta-boxes.php:549 ../inc/admin/meta-boxes.php:605
+#: ../inc/meta-boxes.php:349 ../inc/meta-boxes.php:395
+msgid "3Column"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:311 ../inc/admin/meta-boxes.php:364
+#: ../inc/admin/meta-boxes.php:426 ../inc/admin/meta-boxes.php:488
+#: ../inc/admin/meta-boxes.php:550 ../inc/admin/meta-boxes.php:606
+#: ../inc/meta-boxes.php:350 ../inc/meta-boxes.php:396
+msgid "2Column"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:316 ../inc/admin/meta-boxes.php:369
+#: ../inc/admin/meta-boxes.php:431 ../inc/admin/meta-boxes.php:493
+#: ../inc/admin/meta-boxes.php:555 ../inc/meta-boxes.php:355
+msgid "Images Height"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:319 ../inc/admin/meta-boxes.php:372
+#: ../inc/admin/meta-boxes.php:434 ../inc/admin/meta-boxes.php:496
+#: ../inc/admin/meta-boxes.php:558 ../inc/admin/meta-boxes.php:915
+#: ../inc/admin/meta-boxes.php:1076 ../inc/admin/meta-boxes.php:1088
+#: ../inc/admin/meta-boxes.php:1179 ../inc/admin/meta-boxes.php:1191
+#: ../inc/meta-boxes.php:358 ../inc/meta-boxes.php:705
+#: ../inc/meta-boxes.php:866 ../inc/meta-boxes.php:878
+#: ../inc/meta-boxes.php:969 ../inc/meta-boxes.php:981
+#: ../inc/widgets/blog_page.php:293 ../inc/widgets/blog_page.php:318
+#: ../inc/widgets/blog_page.php:372 ../inc/widgets/button.php:119
+#: ../inc/widgets/button.php:124 ../inc/widgets/button.php:130
+#: ../inc/widgets/button.php:135 ../inc/widgets/button.php:141
+#: ../inc/widgets/button.php:159 ../inc/widgets/button.php:164
+#: ../inc/widgets/contact_form.php:157 ../inc/widgets/contact_form.php:162
+#: ../inc/widgets/custom_title.php:111 ../inc/widgets/custom_title.php:131
+#: ../inc/widgets/custom_title.php:153 ../inc/widgets/custom_title.php:173
+#: ../inc/widgets/iconbox.php:262 ../inc/widgets/iconbox.php:299
+#: ../inc/widgets/iconbox.php:304 ../inc/widgets/iconbox.php:343
+#: ../inc/widgets/iconbox.php:348 ../inc/widgets/iconbox.php:387
+#: ../inc/widgets/iconbox.php:392 ../inc/widgets/image_boxes.php:164
+#: ../inc/widgets/image_boxes.php:179 ../inc/widgets/image_boxes.php:198
+#: ../inc/widgets/image_boxes.php:217 ../inc/widgets/image_boxes.php:236
+#: ../inc/widgets/image_boxes.php:251 ../inc/widgets/image_boxes.php:270
+#: ../inc/widgets/image_boxes.php:310 ../inc/widgets/portfolio.php:338
+#: ../inc/widgets/portfolio.php:351 ../inc/widgets/portfolio.php:356
+#: ../inc/widgets/portfolio.php:404 ../inc/widgets/portfolio.php:415
+#: ../inc/widgets/portfolio.php:434 ../inc/widgets/portfolio.php:453
+#: ../inc/widgets/recent_posts.php:114 ../inc/widgets/services.php:107
+#: ../inc/widgets/services.php:123 ../inc/widgets/services.php:143
+#: ../inc/widgets/services.php:148 ../inc/widgets/services.php:181
+#: ../inc/widgets/services.php:186 ../inc/widgets/team.php:168
+#: ../inc/widgets/team.php:206 ../inc/widgets/team.php:225
+#: ../inc/widgets/team.php:244 ../inc/widgets/team.php:263
+#: ../inc/widgets/team.php:274 ../inc/widgets/team.php:293
+#: ../inc/widgets/team.php:300 ../inc/widgets/testimonial_slider.php:169
+#: ../inc/widgets/testimonial_slider.php:174
+#: ../inc/widgets/testimonial_slider.php:201
+#: ../inc/widgets/testimonial_slider.php:206
+#: ../inc/widgets/testimonial_slider.php:239
+#: ../inc/widgets/testimonial_slider.php:244
+#: ../inc/widgets/user_register_login.php:320
+#: ../inc/widgets/user_register_login.php:325
+#: ../inc/widgets/user_register_login.php:380
+#: ../inc/widgets/user_register_login.php:385
+msgid "px"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:332
+msgid "Tab2"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:337
+msgid "Tab2 Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:341
+msgid "POLARIOD"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:344
+msgid "Upload Tab2 Images"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:381
+msgid "Tab2 Custom Text"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:394
+msgid "Tab3"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:399
+msgid "Tab3 Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:403
+msgid "TAB3 TITLE"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:406
+msgid "Upload Tab3 Images"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:443
+msgid "Tab3 Custom Text"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:456
+msgid "Tab4"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:461
+msgid "Tab4 Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:465
+msgid "TAB4 TITLE"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:468
+msgid "Upload Tab4 Images"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:505
+msgid "Tab4 Custom Text"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:518
+msgid "Tab5"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:523
+msgid "Tab5 Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:527
+msgid "TAB5 TITLE"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:530
+msgid "Upload Tab5 Images"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:567
+msgid "Tab5 Custom Text"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:580 ../inc/meta-boxes.php:370
+msgid "Videos"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:585 ../inc/meta-boxes.php:375
+msgid "Videos Tab Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:589 ../inc/meta-boxes.php:379
+msgid "VIDEOS"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:592 ../inc/meta-boxes.php:382
+msgid "Custom Video Iframe"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:615 ../inc/admin/meta-boxes.php:624
+#: ../inc/meta-boxes.php:405 ../inc/meta-boxes.php:414
+msgid "Biography"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:620 ../inc/meta-boxes.php:410
+msgid "Biography Tab Title"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:627 ../inc/meta-boxes.php:417
+msgid "Short Description"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:640 ../inc/meta-boxes.php:430
+msgid "Experience"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:653 ../inc/meta-boxes.php:443
+msgid "Talents"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:674 ../inc/meta-boxes.php:464
+msgid "Team Designation"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:681 ../inc/admin/meta-boxes.php:1260
+#: ../inc/admin/meta-boxes.php:1285 ../inc/meta-boxes.php:471
+#: ../inc/meta-boxes.php:1050 ../inc/meta-boxes.php:1075
+#: ../inc/widgets/custom_title.php:147 ../inc/widgets/iconbox.php:337
+#: ../inc/widgets/image_boxes.php:241
+msgid "Description"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:703 ../inc/meta-boxes.php:493
+msgid "Awesome Icon - 1"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:704 ../inc/meta-boxes.php:494
+msgid "Ex:fa-facebook"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:711 ../inc/meta-boxes.php:501
+msgid "Ex:http://www.facebook.com/yourfacebookid"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:721 ../inc/meta-boxes.php:511
+msgid "Awesome Icon - 2"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:722 ../inc/meta-boxes.php:512
+msgid "Ex:fa-twitter"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:730 ../inc/meta-boxes.php:520
+msgid "Ex:http://www.twitter.com/yourtwitterid"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:740 ../inc/meta-boxes.php:530
+msgid "Awesome Icon - 3"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:741 ../inc/meta-boxes.php:531
+msgid "Ex:fa-google-plus"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:749 ../inc/meta-boxes.php:539
+msgid "Ex:https://plus.google.com/Yourid"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:759 ../inc/meta-boxes.php:549
+msgid "Awesome Icon - 4"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:760 ../inc/meta-boxes.php:550
+msgid "Ex:fa-linkedin"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:768 ../inc/meta-boxes.php:558
+msgid "Ex:http://www.linkedin.com/profile/qa?id=yourid"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:778 ../inc/meta-boxes.php:568
+msgid "Awesome Icon - 5"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:779 ../inc/meta-boxes.php:569
+msgid "Ex:fa-pinterest"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:787 ../inc/meta-boxes.php:577
+msgid "Ex:http://www.pinterest.com/yourid"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:801 ../inc/meta-boxes.php:591
+msgid "Video"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:807 ../inc/meta-boxes.php:597
+msgid "Add Iframe Video"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:821 ../inc/meta-boxes.php:611
+msgid "Gallery Format"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:827 ../inc/meta-boxes.php:617
+msgid "Post Format Gallery"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:846 ../inc/meta-boxes.php:636
+msgid "Quote"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:887 ../inc/meta-boxes.php:677
+msgid "http://www.google.com"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:904 ../inc/meta-boxes.php:694
+msgid "Slide Title Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:911 ../inc/meta-boxes.php:701
+msgid "Slide Title Font Size"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:923 ../inc/meta-boxes.php:713
+msgid "Slide Title Font Letter Spacing"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:928 ../inc/admin/meta-boxes.php:976
+#: ../inc/admin/meta-boxes.php:990 ../inc/meta-boxes.php:718
+#: ../inc/meta-boxes.php:766 ../inc/meta-boxes.php:780
+msgid " px"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:936 ../inc/meta-boxes.php:726
+msgid "Select Slide Title Font Weight"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:949 ../inc/meta-boxes.php:739
+msgid "Select Slide Title Font Style"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:966 ../inc/meta-boxes.php:756
+msgid "Slide Description Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:973 ../inc/meta-boxes.php:763
+msgid "Slide Description Font Size"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:985 ../inc/meta-boxes.php:775
+msgid "Slide Description Font Letter Spacing"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:998 ../inc/meta-boxes.php:788
+msgid "Select Slide Description Font Weight"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1011 ../inc/meta-boxes.php:801
+msgid "Select Slide Description Font Style"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1029 ../inc/meta-boxes.php:819
+#: ../inc/widgets/image_boxes.php:284
+msgid "Button Background Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1035 ../inc/meta-boxes.php:825
+#: ../inc/widgets/button.php:84
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1042 ../inc/meta-boxes.php:832
+#: ../inc/widgets/button.php:96 ../inc/widgets/contact_form.php:136
+#: ../inc/widgets/image_boxes.php:280
+#: ../inc/widgets/user_register_login.php:362
+msgid "Button Text Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1048 ../inc/meta-boxes.php:838
+#: ../inc/widgets/button.php:92 ../inc/widgets/image_boxes.php:288
+msgid "Button Border Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1054 ../inc/meta-boxes.php:844
+#: ../inc/widgets/image_boxes.php:296
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1060 ../inc/meta-boxes.php:850
+#: ../inc/widgets/button.php:110 ../inc/widgets/image_boxes.php:292
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1066 ../inc/meta-boxes.php:856
+#: ../inc/widgets/button.php:106 ../inc/widgets/image_boxes.php:300
+msgid "Button Hover Border Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1072 ../inc/meta-boxes.php:862
+#: ../inc/widgets/button.php:140 ../inc/widgets/contact_form.php:155
+#: ../inc/widgets/image_boxes.php:304
+#: ../inc/widgets/user_register_login.php:378
+msgid "Button Font Size"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1084 ../inc/meta-boxes.php:874
+#: ../inc/widgets/button.php:158
+msgid "Button Letter Spacing"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1096 ../inc/admin/meta-boxes.php:1199
+#: ../inc/meta-boxes.php:886 ../inc/meta-boxes.php:989
+#: ../inc/widgets/button.php:144
+msgid "Button Font Weight"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1108 ../inc/admin/meta-boxes.php:1211
+#: ../inc/meta-boxes.php:898 ../inc/meta-boxes.php:1001
+#: ../inc/widgets/button.php:151
+msgid "Button Font Style"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1120 ../inc/meta-boxes.php:910
+#: ../inc/widgets/image_boxes.php:313
+msgid "Button Link"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1132 ../inc/meta-boxes.php:922
+msgid "Button2 Background Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1138 ../inc/meta-boxes.php:928
+msgid "Button2 Text"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1145 ../inc/meta-boxes.php:935
+msgid "Button2 Text Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1151 ../inc/meta-boxes.php:941
+msgid "Button2 Border Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1157 ../inc/meta-boxes.php:947
+msgid "Button2 Hover Background Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1163 ../inc/meta-boxes.php:953
+msgid "Button2 Hover Text Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1169 ../inc/meta-boxes.php:959
+msgid "Button2 Hover Border Color"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1175 ../inc/meta-boxes.php:965
+msgid "Button2 Font Size"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1187 ../inc/meta-boxes.php:977
+msgid "Button2 Letter Spacing"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1223 ../inc/meta-boxes.php:1013
+msgid "Button2 Link"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1235 ../inc/meta-boxes.php:1025
+msgid "Slide Content Position"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1239 ../inc/meta-boxes.php:1029
+msgid "Center"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1240 ../inc/meta-boxes.php:1030
+msgid "Left"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1241 ../inc/meta-boxes.php:1031
+msgid "Right"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1255 ../inc/meta-boxes.php:1045
+msgid "Testimonial Settings"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1267 ../inc/meta-boxes.php:1057
+msgid "Designation"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1280 ../inc/meta-boxes.php:1070
+msgid "Client Settings"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1292 ../inc/meta-boxes.php:1082
+msgid "Custom Link"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1299 ../inc/meta-boxes.php:1089
+msgid "Open New Window"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1334 ../inc/meta-boxes.php:1124
+msgid "Details"
+msgstr ""
+
+#: ../inc/admin/meta-boxes.php:1369
+msgid "Select Option"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:18
+msgid "Options"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:19
+msgid "Import"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:20
+msgid "Export"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:32
+msgid "Options Data Export"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:33
+msgid ""
+"When you click <tt>Backup all options</tt> button, system will generate a "
+"JSON file for you to save on your computer.</p>\n"
+"                    <p>This backup file contains all configution and setting "
+"options on our website. Note that it do <b>NOT</b> contain posts, pages, or "
+"any relevant data, just your all options."
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:35
+msgid ""
+"After exporting, you can either use the backup file to restore your settings "
+"on this site again or another WordPress site."
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:39
+msgid "Dowload Options Settings"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:67
+msgid " Custom Meta Field Options"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:95
+#: ../inc/admin/pf_custom_meta_options.php:144
+msgid "Text"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:97
+#: ../inc/admin/pf_custom_meta_options.php:146
+msgid "Checkbox"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:98
+#: ../inc/admin/pf_custom_meta_options.php:147
+msgid "Date Of Birth"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:102
+#: ../inc/admin/pf_custom_meta_options.php:151
+msgid "Label Name( required )"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:104
+#: ../inc/admin/pf_custom_meta_options.php:153
+msgid "Each option on a new line"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:106
+#: ../inc/admin/pf_custom_meta_options.php:155
+msgid "DD-MM-YYYY"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:107
+#: ../inc/admin/pf_custom_meta_options.php:156
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:108
+#: ../inc/admin/pf_custom_meta_options.php:157
+msgid "MM-DD-YYYY"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:195
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:219
+msgid "Options Data Import"
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:241
+msgid "Invalid file or file size too big."
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:246
+msgid "Click Browse button and choose a json file that you backup before."
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:247
+msgid "Press Upload File and Import, WordPress do the rest for you."
+msgstr ""
+
+#: ../inc/admin/pf_custom_meta_options.php:252
+msgid "Upload File and Import"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:15
+msgid "Add New "
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:16
+msgid "Add New"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:17
+msgid "Edit "
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:18
+msgid "New Post Item "
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:19
+msgid "View Post Item "
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:20
+msgid "Search "
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:20
+msgid " Items"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:21
+#: ../inc/custom_posts/kaya_slider.php:15 ../inc/custom_posts/kaya_team.php:14
+#: ../inc/custom_posts/kaya_testimonial.php:14
+msgid "Nothing found"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:22
+msgid "not_found_in_trash"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:50
+#: ../inc/custom_posts/kaya_portfolio.php:51
+#: ../inc/custom_posts/kaya_portfolio.php:52
+#: ../inc/custom_posts/kaya_portfolio.php:53
+msgid "Categories"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:54
+#: ../inc/custom_posts/kaya_portfolio.php:55
+#: ../inc/custom_posts/kaya_portfolio.php:56
+#: ../inc/custom_posts/kaya_portfolio.php:57
+#: ../inc/custom_posts/kaya_portfolio.php:58
+#: ../inc/custom_posts/kaya_portfolio.php:76
+#: ../inc/custom_posts/kaya_slider.php:48
+msgid "Category"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:77
+#: ../inc/custom_posts/kaya_team.php:49
+#: ../inc/custom_posts/kaya_testimonial.php:49
+msgid "Post Image"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:114
+msgid "Image"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:124
+msgid "Enter"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_portfolio.php:124
+msgid "Name"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:10
+msgid "Add New Post"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:11
+msgid "Edit Post"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:12
+msgid "New Slider Post Item"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:13
+msgid "View slider Item"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:14
+msgid "Search Slider Items"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:16 ../inc/custom_posts/kaya_team.php:15
+#: ../inc/custom_posts/kaya_testimonial.php:15
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_slider.php:88
+msgid "Enter Slide Title Here"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:9
+msgid "Add New Team"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:10
+msgid "Edit Team"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:11
+msgid "New Team Item"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:12
+msgid "View Team Item"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:13
+msgid "Search Team"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:48
+msgid "Team Category"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:89
+msgid "Team Member Image"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_team.php:97
+msgid "Enter Team Member Name Here"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:9
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:10
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:11
+msgid "New Testimonial Item"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:12
+msgid "View Testimonial Item"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:13
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:48
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:89
+msgid "Testimonial Image"
+msgstr ""
+
+#: ../inc/custom_posts/kaya_testimonial.php:97
+msgid "Enter Testimonial Name Here"
+msgstr ""
+
+#: ../inc/customize_settings.php:17
+msgid "Customize Options Export"
+msgstr ""
+
+#: ../inc/customize_settings.php:24
+msgid ""
+"When you click <tt>Backup all options</tt> button, system will generate a "
+"JSON file for you to save on your computer."
+msgstr ""
+
+#: ../inc/customize_settings.php:25
+msgid ""
+"This backup file contains all configution and setting options on our "
+"website. Note that it do <b>NOT</b> contain posts, pages, or any relevant "
+"data, just your all options."
+msgstr ""
+
+#: ../inc/functions.php:106
+msgid "Background Image Fixed"
+msgstr ""
+
+#: ../inc/functions.php:109
+msgid "If enabled, the background image will have a parallax effect."
+msgstr ""
+
+#: ../inc/functions.php:129
+msgid "Julia Widgets"
+msgstr ""
+
+#: ../inc/icon_box_icons.php:1708
+msgid "Font Icons"
+msgstr ""
+
+#: ../inc/meta-boxes.php:78
+msgid "Display Page Title bar BG Image / Color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:82
+msgid "Theme Customizer"
+msgstr ""
+
+#: ../inc/meta-boxes.php:83
+msgid "Custom Settings"
+msgstr ""
+
+#: ../inc/meta-boxes.php:89
+msgid "Select Page Title bar Settings"
+msgstr ""
+
+#: ../inc/meta-boxes.php:93
+msgid "Page Title bar BG Image"
+msgstr ""
+
+#: ../inc/meta-boxes.php:94
+msgid "Page Title bar BG Color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:100
+msgid "Page Title Background Image"
+msgstr ""
+
+#: ../inc/meta-boxes.php:108
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/meta-boxes.php:112
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/meta-boxes.php:113
+msgid "Repeat"
+msgstr ""
+
+#: ../inc/meta-boxes.php:114
+msgid "Cover"
+msgstr ""
+
+#: ../inc/meta-boxes.php:120
+msgid "Page Title Background Color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:127
+msgid "Page Title Color"
+msgstr ""
+
+#: ../inc/meta-boxes.php:318
+msgid "Images"
+msgstr ""
+
+#: ../inc/meta-boxes.php:323
+msgid "Images Tab Title"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:5
+msgid "Julia - Alert Box"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:6
+msgid "Use this widget to add alert massages"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:12 ../inc/widgets/alert-boxes.php:31
+msgid "This is Normal Alert Message"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:47
+msgid "Alert Box Content"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:53
+msgid "Awesome Icon Name"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:55
+msgid "Ex: fa-home, for More Awesome icons click"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:61
+msgid "Alert Box Background Color"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:65
+msgid "Alert Box Content Color"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:69
+msgid "Alert Box Border Color"
+msgstr ""
+
+#: ../inc/widgets/alert-boxes.php:75 ../inc/widgets/button.php:194
+#: ../inc/widgets/contact_form.php:172 ../inc/widgets/custom_title.php:194
+#: ../inc/widgets/flicker.php:64 ../inc/widgets/iconbox.php:406
+#: ../inc/widgets/image_boxes.php:322 ../inc/widgets/list_boxes.php:117
+#: ../inc/widgets/portfolio.php:491 ../inc/widgets/product_slider.php:343
+#: ../inc/widgets/products_list_view.php:267
+#: ../inc/widgets/recent_posts.php:144 ../inc/widgets/team.php:321
+#: ../inc/widgets/testimonial_slider.php:262 ../inc/widgets/twitter.php:212
+msgid "Select Animation Effect"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:6
+msgid "Julia - Blog"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:7
+msgid "Use this widget to add blog post items"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:34 ../inc/widgets/blog_page.php:211
+msgid "Read More"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:162
+msgid "Written by "
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:163
+msgid "Tagged as "
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:235
+msgid "Blog Post Display Style"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:244
+msgid "Enter Blog Category IDs"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:246 ../inc/widgets/portfolio.php:305
+#: ../inc/widgets/product_slider.php:234
+#: ../inc/widgets/products_list_view.php:187 ../inc/widgets/recent_posts.php:97
+#: ../inc/widgets/team.php:161 ../inc/widgets/testimonial_slider.php:146
+msgid "Available Categories and IDs : "
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:247 ../inc/widgets/portfolio.php:306
+#: ../inc/widgets/product_slider.php:235
+#: ../inc/widgets/products_list_view.php:188 ../inc/widgets/recent_posts.php:99
+#: ../inc/widgets/team.php:162 ../inc/widgets/testimonial_slider.php:148
+msgid "Note:"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:247 ../inc/widgets/portfolio.php:306
+#: ../inc/widgets/product_slider.php:235
+#: ../inc/widgets/products_list_view.php:188
+#: ../inc/widgets/recent_posts.php:100 ../inc/widgets/team.php:162
+#: ../inc/widgets/testimonial_slider.php:148
+msgid "Separate IDs with commas only"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:252 ../inc/widgets/portfolio.php:384
+#: ../inc/widgets/recent_posts.php:124
+msgid "Orderby"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:262 ../inc/widgets/portfolio.php:394
+#: ../inc/widgets/recent_posts.php:135
+msgid "Order"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:271
+msgid "Posts Date Background  Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:275
+msgid "Posts Date Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:279
+msgid "Posts Description Background  Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:283
+msgid "Posts Title  Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:287
+msgid "Posts Title Hover Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:291
+msgid "Posts Title Font Size"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:296
+msgid "Posts Title Font Style"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:303
+msgid "Posts Title Font Weight"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:312
+msgid "Posts Description Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:316
+msgid "Posts Description Font Size"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:321
+msgid "Posts Description Font Style"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:328
+msgid "Posts Description Font Weight"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:337
+msgid "Post Meta Links Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:341
+msgid "Post Meta Links Hover Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:345
+msgid "Post Meta Border Top & Bottom Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:351 ../inc/widgets/iconbox.php:373
+msgid "Readmore Button Text"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:355
+msgid "Read More Button Link Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:359
+msgid "Read More Button Background Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:363
+msgid "Read More Button Link Hover Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:367
+msgid "Read More Button Hover Background Color"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:371
+msgid "Read More Button Letter Spacing"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:375
+msgid "Read More Button Font Weight"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:382
+msgid "Read More Button Font Style"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:391
+msgid "Post Content Limit"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:395
+msgid "Display Posts Per Page"
+msgstr ""
+
+#: ../inc/widgets/blog_page.php:399
+msgid "Disable Pagination"
+msgstr ""
+
+#: ../inc/widgets/button.php:7
+msgid "Julia -  Button "
+msgstr ""
+
+#: ../inc/widgets/button.php:8
+msgid "Displays Button where ever you want"
+msgstr ""
+
+#: ../inc/widgets/button.php:14 ../inc/widgets/button.php:52
+msgid "Readmore"
+msgstr ""
+
+#: ../inc/widgets/button.php:20 ../inc/widgets/button.php:58
+msgid "left"
+msgstr ""
+
+#: ../inc/widgets/button.php:88
+msgid "Button BG Color"
+msgstr ""
+
+#: ../inc/widgets/button.php:102
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: ../inc/widgets/button.php:117
+msgid "Button Border Width"
+msgstr ""
+
+#: ../inc/widgets/button.php:122
+msgid "Button Border Radius"
+msgstr ""
+
+#: ../inc/widgets/button.php:127
+msgid "Button Padding Top & Bottom"
+msgstr ""
+
+#: ../inc/widgets/button.php:133
+msgid "Button Padding Left & Right"
+msgstr ""
+
+#: ../inc/widgets/button.php:162
+msgid "Margin Top"
+msgstr ""
+
+#: ../inc/widgets/button.php:169
+msgid "Button Alignment"
+msgstr ""
+
+#: ../inc/widgets/button.php:181
+msgid "Destination URL"
+msgstr ""
+
+#: ../inc/widgets/button.php:186
+msgid "Open In New Window"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:7
+msgid "Julia - Contact Form"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:8
+msgid "Add contact form"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:14 ../inc/widgets/contact_form.php:73
+msgid "SUBMIT"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:100
+msgid "Email Id"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:104
+msgid "Form Input Fields Border Color"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:108
+msgid "Form Input Fields Text Color"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:114
+msgid "Name Label Name"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:118
+msgid "Email Label Name"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:122
+msgid "Subject Label Name"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:126
+msgid "Message Label Name"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:132
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:140
+#: ../inc/widgets/user_register_login.php:366
+msgid "Button Bg  Color"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:144
+#: ../inc/widgets/user_register_login.php:370
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:151
+#: ../inc/widgets/user_register_login.php:374
+msgid "Button Bg Hover Color"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:160
+#: ../inc/widgets/user_register_login.php:383
+msgid "Button Text Letter Spacing"
+msgstr ""
+
+#: ../inc/widgets/contact_form.php:167
+msgid "Form Input Error Fields  Border Color"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:6
+msgid "Julia - Custom Title"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:7
+msgid "Add custom title where you want"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:14 ../inc/widgets/custom_title.php:66
+msgid "Custom Title"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:110 ../inc/widgets/iconbox.php:297
+#: ../inc/widgets/recent_posts.php:112 ../inc/widgets/services.php:179
+msgid "Title Font Size"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:114 ../inc/widgets/iconbox.php:316
+#: ../inc/widgets/services.php:189
+msgid "Title Font Weight"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:122 ../inc/widgets/iconbox.php:307
+#: ../inc/widgets/services.php:196
+msgid "Title Font Style"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:130 ../inc/widgets/services.php:184
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:136 ../inc/widgets/iconbox.php:323
+#: ../inc/widgets/product_slider.php:316
+#: ../inc/widgets/products_list_view.php:245 ../inc/widgets/services.php:175
+msgid "Title Color"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:140 ../inc/widgets/iconbox.php:331
+msgid "Title Bottom Border Color"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:152 ../inc/widgets/iconbox.php:341
+#: ../inc/widgets/services.php:141 ../inc/widgets/testimonial_slider.php:167
+msgid "Description Font Size"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:156 ../inc/widgets/iconbox.php:360
+#: ../inc/widgets/services.php:151 ../inc/widgets/testimonial_slider.php:184
+msgid "Description Font Weight"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:164 ../inc/widgets/iconbox.php:353
+#: ../inc/widgets/services.php:158 ../inc/widgets/testimonial_slider.php:177
+msgid "Description Font Style"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:172 ../inc/widgets/services.php:146
+#: ../inc/widgets/testimonial_slider.php:172
+msgid "Description Letter Spacing"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:176 ../inc/widgets/iconbox.php:367
+#: ../inc/widgets/product_slider.php:334 ../inc/widgets/services.php:137
+#: ../inc/widgets/testimonial_slider.php:161
+msgid "Description Color"
+msgstr ""
+
+#: ../inc/widgets/custom_title.php:183
+msgid "Titles / Description Position"
+msgstr ""
+
+#: ../inc/widgets/flicker.php:7
+msgid "Julia - Flickr"
+msgstr ""
+
+#: ../inc/widgets/flicker.php:8
+msgid "Displays flickr image"
+msgstr ""
+
+#: ../inc/widgets/flicker.php:14 ../inc/widgets/flicker.php:40
+msgid "Flickr Images"
+msgstr ""
+
+#: ../inc/widgets/flicker.php:22
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/flicker.php:49
+msgid "Flickr Name"
+msgstr ""
+
+#: ../inc/widgets/flicker.php:53
+msgid "Flickr ID - "
+msgstr ""
+
+#: ../inc/widgets/flicker.php:58
+msgid "Number of photos:"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:8
+msgid "Julia - Icon Box"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:9
+msgid "Use this widget to create icon box with text or Font icons"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:16 ../inc/widgets/iconbox.php:130
+msgid "Icon Box Title"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:17 ../inc/widgets/iconbox.php:45
+#: ../inc/widgets/iconbox.php:47 ../inc/widgets/iconbox.php:48
+#: ../inc/widgets/iconbox.php:131 ../inc/widgets/iconbox.php:159
+#: ../inc/widgets/iconbox.php:161 ../inc/widgets/iconbox.php:162
+#: ../inc/widgets/testimonial_slider.php:24
+#: ../inc/widgets/testimonial_slider.php:26
+#: ../inc/widgets/testimonial_slider.php:28
+#: ../inc/widgets/testimonial_slider.php:30
+#: ../inc/widgets/testimonial_slider.php:114
+#: ../inc/widgets/testimonial_slider.php:116
+#: ../inc/widgets/testimonial_slider.php:118
+#: ../inc/widgets/testimonial_slider.php:120
+msgid "normal"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:20 ../inc/widgets/iconbox.php:134
+msgid ""
+"We strive to leave the tiniest footprint we can. Thats why our goods are "
+"designed and manufactured."
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:32 ../inc/widgets/iconbox.php:146
+msgid "center"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:33 ../inc/widgets/iconbox.php:147
+msgid "fa-cog"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:40 ../inc/widgets/iconbox.php:154
+msgid "awesome_fonts"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:42 ../inc/widgets/iconbox.php:156
+msgid "font_icons"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:210
+msgid "Select Icon Type"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:225 ../inc/widgets/image_boxes.php:138
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:249
+msgid "Icon Text"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:251
+msgid "Ex: A"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:256
+msgid "Iconbox Container BG Color"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:260
+msgid "Icon Size"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:265 ../inc/widgets/services.php:117
+msgid "Icon Color"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:271
+msgid "Icon Position"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:287
+msgid "Icon Link Disable"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:302
+msgid "Title Letter Space"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:327 ../inc/widgets/product_slider.php:320
+#: ../inc/widgets/products_list_view.php:249 ../inc/widgets/services.php:207
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:346
+msgid "Description Letter Space"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:377
+msgid "Readmore Button Link Color"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:381
+msgid "Readmore Button Link Hover Color"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:385
+msgid "Readmore Button Font Size"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:390
+msgid "Readmore Button Letter Space"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:395
+msgid "Link"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:397
+msgid "Ex:http://www.google.com"
+msgstr ""
+
+#: ../inc/widgets/iconbox.php:400 ../inc/widgets/image_boxes.php:317
+msgid "Open in new window"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:8
+msgid "Julia - Image Box"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:9
+msgid "Displays image box with title and description"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:15 ../inc/widgets/image_boxes.php:87
+msgid "Image Block Title"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:161 ../inc/widgets/portfolio.php:401
+#: ../inc/widgets/products_list_view.php:235 ../inc/widgets/team.php:165
+msgid "Image Width & Height"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:173 ../inc/widgets/team.php:199
+msgid "Image Border & Vertical Title BG Color"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:177 ../inc/widgets/portfolio.php:413
+#: ../inc/widgets/team.php:204
+msgid "Image Vertical Title Font Size"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:182 ../inc/widgets/portfolio.php:418
+#: ../inc/widgets/team.php:209
+msgid "Vertical Title Font Weight"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:189 ../inc/widgets/portfolio.php:425
+#: ../inc/widgets/team.php:216
+msgid "Vertical Title Font Style"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:196 ../inc/widgets/portfolio.php:432
+#: ../inc/widgets/team.php:223
+msgid "Image Vertical Title Letter Size"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:201 ../inc/widgets/portfolio.php:437
+#: ../inc/widgets/team.php:228
+msgid "Image Vertical Title Color"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:207 ../inc/widgets/team.php:234
+msgid "Image Hover BG Color"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:211 ../inc/widgets/team.php:238
+msgid "Image Hover Title Color"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:215 ../inc/widgets/team.php:242
+msgid "Image Hover Title Font Size"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:220 ../inc/widgets/team.php:247
+msgid "Image Hover Title Font Weight"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:227 ../inc/widgets/team.php:254
+msgid "Image Hover Title Font Style"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:234 ../inc/widgets/team.php:261
+msgid "Image Hover Title Letter Size"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:245 ../inc/widgets/team.php:268
+msgid "Image Hover Description Color"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:249 ../inc/widgets/team.php:272
+msgid "Image Hover Description Font Size"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:254 ../inc/widgets/team.php:277
+msgid "Image Hover Description Font Weight"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:261 ../inc/widgets/team.php:284
+msgid "Image Hover Description Font Style"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:268 ../inc/widgets/team.php:291
+msgid "Image Hover Description Letter Size"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:276
+msgid "Read More Button Name"
+msgstr ""
+
+#: ../inc/widgets/image_boxes.php:308
+msgid "Button Letter Space"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:8
+msgid "Julia -  List Box"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:9
+msgid "Add list items with custom icon"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:16
+msgid ""
+"<ul>\n"
+"\t\t\t\t\t\t\t\t<li>List Item - 1</li>\n"
+"\t\t\t\t\t\t\t\t<li>List Item - 2 </li>\n"
+"\t\t\t\t\t\t\t\t<li> List Items - 3</li>\n"
+"\t\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:57
+msgid ""
+"<ul>\n"
+"\t\t\t\t\t\t\t<li>List Item - 1</li>\n"
+"\t\t\t\t\t\t\t<li>List Item - 2 </li>\n"
+"\t\t\t\t\t\t\t<li> List Items - 3</li>\n"
+"\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:79
+msgid "Upload List Image"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:102
+msgid "List Box"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:107
+msgid "List Box List Color"
+msgstr ""
+
+#: ../inc/widgets/list_boxes.php:111
+msgid "List Box List Hover Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:6
+msgid "Julia - Portfolio"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:8
+msgid "Use this widget to add recent news"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:210
+msgid "Loading..."
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:303
+msgid "Enter Portfolio Category IDs : "
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:312
+msgid "Portfolio Filter Tabs"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:320
+msgid "Filter Tab BG Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:324
+msgid "Filter Tab Text Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:328
+msgid "Filter Tab Border Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:332
+msgid "Filter Tab Active Border Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:336
+msgid "Filter Tab Border Radius"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:341
+msgid "Filter Tab Acive BG Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:345
+msgid "Filter Tab Active Text Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:349
+msgid "Filter Tab Padding Top & Bottom"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:354
+msgid "Filter Tab Padding Left & Right"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:359
+msgid "Filters Tabs Position"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:409
+msgid "Vertical Title BG Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:443
+msgid "Model Details Background Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:447
+msgid "Model details Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:451
+msgid "Model details Font Letter Space"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:459
+msgid "Enable Gray Scale Images"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:465
+msgid "Display Number of Images"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:469
+msgid "Loadmore Button Text"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:473
+msgid "Loadmore Button BG Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:477
+msgid "Loadmore Button Text Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:481
+msgid "Loadmore Button Hover BG Color"
+msgstr ""
+
+#: ../inc/widgets/portfolio.php:485
+msgid "Loadmore Button Hover Text Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:11
+msgid "Julia - Shop Products Slider"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:12
+msgid "Display list of products as a slider"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:113 ../inc/widgets/product_slider.php:116
+#: ../inc/widgets/products_list_view.php:123
+#: ../inc/widgets/products_list_view.php:126
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:113 ../inc/widgets/product_slider.php:116
+#: ../inc/widgets/products_list_view.php:123
+#: ../inc/widgets/products_list_view.php:126
+msgid "out of 5"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:232
+#: ../inc/widgets/products_list_view.php:185
+msgid "Enter Product Category IDs : "
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:240
+msgid "Product Slide Items"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:257
+msgid "Loop"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:266
+#: ../inc/widgets/products_list_view.php:193
+msgid "Products Display"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:276 ../inc/widgets/product_slider.php:283
+#: ../inc/widgets/products_list_view.php:203
+#: ../inc/widgets/products_list_view.php:210
+msgid "Order By"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:290
+#: ../inc/widgets/products_list_view.php:217
+msgid "Display Number Of Products"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:294
+msgid "Slider Arrow Buttons"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:298
+msgid "Slider Navigation Background Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:302 ../inc/widgets/team.php:189
+msgid "Slider Navigation Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:308
+msgid "Product Box Border Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:312
+msgid "Product Description BG Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:326
+#: ../inc/widgets/products_list_view.php:253
+msgid "Price Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:330
+#: ../inc/widgets/products_list_view.php:257
+msgid "Rating Color"
+msgstr ""
+
+#: ../inc/widgets/product_slider.php:338
+#: ../inc/widgets/products_list_view.php:261
+msgid "Disable Rating"
+msgstr ""
+
+#: ../inc/widgets/products_list_view.php:11
+msgid "Julia - Shop Products List"
+msgstr ""
+
+#: ../inc/widgets/products_list_view.php:12
+msgid "Display list of products as a list view"
+msgstr ""
+
+#: ../inc/widgets/products_list_view.php:223
+msgid "Product Image Position"
+msgstr ""
+
+#: ../inc/widgets/products_list_view.php:238
+msgid "PX"
+msgstr ""
+
+#: ../inc/widgets/products_list_view.php:241
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/widgets/recent_posts.php:5
+msgid "Julia Recentposts"
+msgstr ""
+
+#: ../inc/widgets/recent_posts.php:6
+msgid "Use this widget to add recentposts"
+msgstr ""
+
+#: ../inc/widgets/recent_posts.php:94
+msgid "Select Blog Category IDs"
+msgstr ""
+
+#: ../inc/widgets/recent_posts.php:102
+msgid "Display Number of Posts"
+msgstr ""
+
+#: ../inc/widgets/recent_posts.php:108
+msgid "Title Font Color"
+msgstr ""
+
+#: ../inc/widgets/recent_posts.php:117
+msgid "Date Color"
+msgstr ""
+
+#: ../inc/widgets/services.php:6
+msgid "Julia - Services"
+msgstr ""
+
+#: ../inc/widgets/services.php:7
+msgid "Use this widget as a services"
+msgstr ""
+
+#: ../inc/widgets/services.php:22 ../inc/widgets/services.php:78
+msgid "Add your servics box title description"
+msgstr ""
+
+#: ../inc/widgets/services.php:23 ../inc/widgets/services.php:79
+msgid "Add Services Title"
+msgstr ""
+
+#: ../inc/widgets/services.php:105
+msgid "Service Box Wrapper Height"
+msgstr ""
+
+#: ../inc/widgets/services.php:113
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../inc/widgets/services.php:121
+msgid "Icon Font Size"
+msgstr ""
+
+#: ../inc/widgets/services.php:128
+msgid "Services Box Content"
+msgstr ""
+
+#: ../inc/widgets/services.php:133
+msgid "Description Background Color"
+msgstr ""
+
+#: ../inc/widgets/services.php:171
+msgid "Title Background Color"
+msgstr ""
+
+#: ../inc/widgets/services.php:203
+msgid "Title Background Hover Color"
+msgstr ""
+
+#: ../inc/widgets/team.php:8
+msgid "Julia - Team Slider"
+msgstr ""
+
+#: ../inc/widgets/team.php:9
+msgid "Displays Team Slider"
+msgstr ""
+
+#: ../inc/widgets/team.php:159
+msgid "Enter Team Category IDs : "
+msgstr ""
+
+#: ../inc/widgets/team.php:193
+msgid "Slider Navigation Active Color"
+msgstr ""
+
+#: ../inc/widgets/team.php:298
+msgid "Social Icons Font Size"
+msgstr ""
+
+#: ../inc/widgets/team.php:303
+msgid "Social Icons Background Color"
+msgstr ""
+
+#: ../inc/widgets/team.php:307
+msgid "Social Icons Color"
+msgstr ""
+
+#: ../inc/widgets/team.php:311
+msgid "Social Icons Hover Background Color"
+msgstr ""
+
+#: ../inc/widgets/team.php:315
+msgid "Social Icons Hover Color"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:7
+msgid "Julia - Testimonial Slider"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:8
+msgid "Display client slider from \"Testimonial\" CPT post featured image"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:143
+msgid "Enter Testimonial Slider Category IDs : "
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:153
+msgid "Thumb Image Border Color"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:157
+msgid "Thumb Image Active Border Color"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:193
+msgid "Client Name Color"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:199
+msgid "Client Name Font Size"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:204
+msgid "Client Name Letter Space"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:209
+msgid "Client Name Font Style"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:218
+msgid "Client Name Font Weight"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:225
+msgid "Border Color"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:231
+msgid "Designation Color"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:237
+msgid "Designation Font Size"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:242
+msgid "Designation Letter Space"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:247
+msgid "Designation Font Style"
+msgstr ""
+
+#: ../inc/widgets/testimonial_slider.php:255
+msgid "Designation Font Weight"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:7
+msgid "Julia - Twitter"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:8
+msgid "Dsiplay latest tweets"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:153
+msgid "Twitter Title:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:157
+msgid "Twitter User Name:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:163
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:167
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:173
+msgid "Access Token:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:177
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:183
+msgid "Twitter Button Name"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:190
+msgid "Twitter Icon BG Color"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:194
+msgid "Twitter Icon Color"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:199
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:203
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/widgets/twitter.php:207
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:6
+msgid "Julia - Register / Login"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:7
+msgid "Add user registration form"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:15
+#: ../inc/widgets/user_register_login.php:251
+msgid "User Login Form"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:16
+#: ../inc/widgets/user_register_login.php:252
+msgid "User Register Form"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:17
+#: ../inc/widgets/user_register_login.php:253
+msgid "Forgot Password"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:37
+#: ../inc/widgets/user_register_login.php:273
+msgid "You're Successfully Register. Please Check your Email."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:38
+#: ../inc/widgets/user_register_login.php:274
+msgid ""
+"Please enter your email address. You will receive a new password via email."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:40
+#: ../inc/widgets/user_register_login.php:276
+msgid ""
+"Your account has been set up and you can log in using the following details. "
+"Once you have logged in, please ensure that you visit the Site Admin and "
+"change you password so that you don't forget it in the future. "
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:43
+#: ../inc/widgets/user_register_login.php:279
+msgid "Invalid Email"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:44
+#: ../inc/widgets/user_register_login.php:280
+msgid "Error on user creation."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:108
+msgid "Remember Me"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:109
+msgid "Log In"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:136
+msgid "Please don't leave the required fields."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:138
+msgid "Invalid email address."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:140
+msgid "Email already exist."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:148
+msgid "Confirmation - Registration to"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:154
+msgid "Hi "
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:155
+msgid "Username: "
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:160
+msgid "You're successfully register"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:178
+msgid "Last Name"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:179
+msgid "Email ( abc@gmail.com )"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:181
+msgid "website  ( optional )"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:182
+msgid "User Name"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:183
+msgid "Registration confirmation will be e-mailed to you."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:184
+msgid "REGISTER"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:197
+msgid "Enter e-mail address.."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:199
+msgid "Invalid e-mail address."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:201
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:213
+msgid "Your new password"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:215
+msgid "User Name is"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:216
+msgid "Your New Password is"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:240
+msgid "Get New Password"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:291
+msgid "User Login Tab Name"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:295
+msgid "User Register Tab Name"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:299
+msgid "Forgot Password Tab Name"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:303
+msgid "Tabs Bg Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:307
+msgid "Tabs Title Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:311
+msgid "Tabs Active Bg Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:315
+msgid "Tabs Active Title Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:319
+msgid "Tabs Font Size"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:323
+msgid "Tabs Letter Spacing"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:328
+msgid "Tabs Font Weight"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:336
+msgid "Forms background Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:340
+msgid "Forms Input Fields Border Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:344
+msgid "Forms Input Fields Text Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:348
+msgid "Tabs Content Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:352
+msgid "Error Message Text Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:356
+msgid "Success Message Color"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:390
+msgid "User Registration Success Message"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:394
+msgid "User Registration Error Message"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:398
+msgid "User Login Error Message"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:402
+msgid "Forgot Password Message"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:406
+msgid "Forgot Password Success Message"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:410
+msgid "Forgot Password Error Message"
+msgstr ""
+
+#: ../inc/widgets/user_register_login.php:416
+msgid "User Confirmation Mail Message"
+msgstr ""

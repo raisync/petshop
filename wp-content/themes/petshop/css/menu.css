@@ -1,0 +1,309 @@
+/*sticky menu*/
+#main_content_inner_section #header_container.sticky.sticky_menu{
+    position: fixed!important;
+}
+.sticky_menu {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 999!important;
+}
+.sticky_menu  .header_section{
+     padding: 8px 0!important;
+     transition : all 0.4s ease;
+     margin: 0px auto;
+     background: none;
+}
+.sticky_menu.bottom_sticky_header .menu > ul > li.menu_shop_cart_icon {
+    margin-top: -16px;
+    padding-top: 16px;
+}
+/*end*/
+.cart-contents > span:before {
+    border-color: transparent #000 transparent transparent;
+    border-style: solid;
+    border-width: 5px;
+    content: "";
+    display: block;
+    left: -10px;
+    margin-top: -5px;
+    position: absolute;
+    top: 50%;
+}
+.cart-contents > span {
+    background-color: #000;
+    border-radius: 3px;
+    padding: 2px 7px;
+    position: relative;
+}
+.nav_wrap {
+    z-index: 100;
+    position: relative!important;
+}
+.menu ul li:hover > ul.sub-menu{
+    display: block;
+}
+.header_logo_section .right_menu .header_menu_section{
+  float: right;
+}
+.header_menu_section{
+  float: left;
+}
+#menu {
+    float: left;
+}
+#menu li{
+  margin-bottom: 0px!important;
+}
+.menu-link { display: none; }
+.spinner-master input[type=checkbox] { display: none; }
+.menu {
+  height: auto;
+  transition: all 0.3s ease;
+}
+.menu ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+  position: relative;
+}
+.menu > li > ul.sub_menu {
+  min-width: 10em;
+  padding: 4px 0;
+  background-color: #f4f4f4;
+  border: 1px solid #fff;
+}
+.menu ul li { padding: 0px; }
+.menu > ul > li {
+ display: inline-block; 
+margin-right: 1px; 
+}
+.menu ul li a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+}
+.menu ul li a:hover {
+  color: #fff;
+}
+.menu ul li.hover > a {
+  color: #fff;
+}
+.menu ul ul {
+  display: none;
+  position: absolute;
+  min-width: 200px;
+  width:100%;
+}
+.custom_menu_items .menu{
+  overflow: inherit;  }
+.menu ul li:hover > ul { display: block; }
+.menu ul ul > li { position: relative; }
+.menu ul ul > li a {
+  padding: 10px 0px 10px 20px;
+  height: auto;
+}
+.menu ul ul > li a:hover {
+  color: #fff;
+}
+.menu ul ul ul {
+  position: absolute;
+  left: 100%;
+  top: 0;
+}
+/*toggle*/
+@media all and (max-width: 1023px) {
+.spinner-master * {
+  transition: all 0.3s;
+  box-sizing: border-box;
+}
+.mobile_toggle_menu {
+    padding: 0px 30px;
+}
+.header_menu_section{
+  width: 100%;
+  margin-top: 20px;
+}
+.one_third.logo_left{
+  margin-bottom: 0px!important;
+}
+.spinner-master {
+ position: relative;
+    margin: 15px;
+    height: 39px;
+    width: 39px;
+    float: left;
+    clear: right;
+}
+.spinner-master label {
+  cursor: pointer;
+  position: absolute;
+  z-index: 99;
+  height: 100%;
+  width: 100%;
+  top: 5px;
+  left: 0;
+}
+.spinner-master .spinner {
+  position: absolute;
+  height: 4px;
+  width: 100%;
+  padding: 0;
+  background-color: #fff;
+}
+.spinner-master .diagonal.part-1 {
+  position: relative;
+  float: left;
+}
+.spinner-master .horizontal {
+  position: relative;
+  float: left;
+  margin-top: 4px;
+}
+.spinner-master .diagonal.part-2 {
+  position: relative;
+  float: left;
+  margin-top: 4px;
+}
+.spinner-master input[type=checkbox]:checked ~ .spinner-spin > .horizontal { opacity: 0; }
+
+.spinner-master input[type=checkbox]:checked ~ .spinner-spin > .diagonal.part-1 {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+  margin-top: 10px;
+}
+.spinner-master input[type=checkbox]:checked ~ .spinner-spin > .diagonal.part-2 {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+  margin-top: -12px;
+}
+a.menu-link {
+  display: block;
+  color: #fff;
+  float: left;
+  text-decoration: none;
+  padding: 10px 16px;
+  font-size: 1.5em;
+}
+a.menu-link:hover { color: #efa666; }
+
+a.menu-link:after {
+  content: "\2630";
+  font-weight: normal;
+}
+a.menu-link.active:after { content: "\2715"; }
+.menu {
+  clear: both;
+  min-width: inherit;
+  float: none;
+}
+.menu,
+.menu > ul ul {
+  max-height: 0;
+}
+.menu > li > ul.sub-menu {
+  padding: 0px;
+  border: none;
+}
+.menu.active,
+.menu > ul ul.active { max-height: 100em; }
+.menu ul { display: inline; }
+.menu li,
+.menu > ul > li { display: block; }
+.menu > ul > li:last-of-type a { border: none; }
+.menu li a {
+  color: #fff;
+  display: block;
+  padding: 0.8em;
+  position: relative;
+}
+.menu li.has-submenu > a:after {
+  content: '+';
+  font-size: 1.5em;
+  position: absolute;
+    top: 50%;
+    margin-top: -17px;
+    left: auto;
+    right: 20px;
+    width: 34px;
+    height: 34px;
+    overflow: hidden;
+    font: bold 16px/34px monospace !important;
+    text-align: center;
+    text-shadow: none;
+    background: rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+}
+.menu > ul > li > a{
+  padding-top: 15px!important;
+  padding-bottom: 15px!important;
+}
+.menu li.has-submenu > a.active:after {
+ content: "-"; 
+}
+.menu ul ul > li a {
+  padding: 10px 18px 10px 30px;
+}
+.menu ul li a:hover {
+  color: #fff;
+}
+.menu ul li.hover > a {
+  color: #fff;
+}
+.menu ul li{
+  border-bottom: 1px solid rgba(204, 204, 204, 0.3);
+}
+.menu ul li:last-child{
+  border-bottom: none;
+  }
+.menu ul ul,
+.menu ul ul ul {
+  display: inherit;
+  position: relative;
+  left: auto;
+  top: auto;
+  border: none;
+}
+.header_logo_section .right_menu .header_menu_section{
+  float: none!important;
+  clear: both!important;
+}
+.two_third_last.right_menu {
+    width: 100%;
+    display: block;
+    float: none!important;
+    margin: 0px!important;
+}
+.nav_wrap{
+  width: 100%;
+}
+#menu{
+  width: 100%;
+}
+.menu ul ul{
+  background:none!important;
+}
+.menu  ul ul li a{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.menu ul ul ul{
+  padding-left: 20px;
+}
+.menu ul ul li, .menu ul ul ul li{
+  border-bottom: none!important;
+}
+.social_media_icons li{
+  padding: 3px!important;
+}
+h1.logo a{
+  font-size: 30px!important;
+}
+}
