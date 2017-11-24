@@ -11,3 +11,87 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  petshop-child
 */
+
+* {
+	/*outline: 1px solid red;*/
+}
+
+li.last {
+	float: left !important;
+}
+
+.woocommerce-page.columns-6 ul.products li.product, .woocommerce.columns-6 ul.products li.product {
+   width: 15%;
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    float: left !important;
+}
+
+.woocommerce ul.products li.first, .woocommerce-page ul.products li.first {
+    /*clear: none;*/
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    width: 15%;
+}
+
+#pg-20-0, #pg-20-1, #pg-20-2, #pgc-20-6-0, #pg-20-6 {
+	display: none;
+}
+
+.mid_container_wrapper_section {
+    margin-top: 30px;
+}
+
+ul.product-categories {
+	display: inline-flex;
+	padding: 5px 10px;
+}
+
+.product-categories li {
+    border-bottom: 0 none; 
+}
+
+#panel-20-3-0-1 {
+	text-align: center;
+}
+
+.widget_woocommerce_product_categories ul li {
+    padding: 10px 15px !important;
+    margin: 0px 10px;
+    border: 1px #cccccc solid;
+}
+
+.widget_container ul li:first-child, .widget_woocommerce_product_categories ul li:first-child {
+    padding: 10px 15px !important;
+}
+
+.widget_woocommerce_product_categories ul.children li:last-child, .widget_woocommerce_product_categories ul > li:last-child {
+    border: 1px #cccccc solid;
+}
+
+#pg-20-3 {
+	padding: 50px 0px !important;
+}
+
+.description_box {
+    padding: 0 !important;
+    border: none !important;
+}
+
+#panel-250-0-0-2> .panel-widget-style {
+    border-top: 0 !important;
+}
+
+.social_media_icons a {
+	margin-right: 0 !important;
+}
+
+#pg-20-7> .panel-row-style, #pg-20-9> .panel-row-style {
+    border: 0 !important; 
+}
+
+#pg-20-1, #pg-20-2, #pg-20-6, #pg-20-7, #pg-20-9 {
+    margin-bottom: 0px !important; 
+}
